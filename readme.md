@@ -170,7 +170,7 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ## 📞 Contato
 
-Seu Nome - [@bulletdev](https://twitter.com/craquebullet) - contato@michaelbullet.com
+[@bulletdev](https://twitter.com/craquebullet) - contato@michaelbullet.com
 
 Link do Projeto: [https://github.com/Bulletdev/streamerPay](https://github.com/bulletdev/streamerPaay)
 

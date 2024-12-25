@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/StreamerPay.iml" filepath="$PROJECT_DIR$/.idea/StreamerPay.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/streamer-pay.iml" filepath="$PROJECT_DIR$/.idea/streamer-pay.iml" />
     </modules>
   </component>
 </project>
